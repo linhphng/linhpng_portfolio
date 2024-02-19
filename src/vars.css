@@ -1,0 +1,11 @@
+:root {
+  /* Colors */
+  --color-text: rgb(133, 137, 13);
+  --color-primary: #c06607;
+  --color-secondary: rgb(235, 230, 101);
+  --color-box: rgba(245, 242, 206, 0.981);
+  --color-bg: #f4f1de;
+
+  /* Fonts */
+  --font-roboto: "Fredericka the Great";
+}

@@ -1,0 +1,37 @@
+[
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "MemberMax",
+      "startDate": "May, 2023",
+      "endDate": "Jan, 2024",
+      "experiences": ["Automated the development pipeline by implementing efficient CI/CD practices to streamline the development process and continual maintenance of Trilix, a Customer Relationship Management (CRM) cloud web application",
+      "Developed different app features to achieve the needs of customers and meet the software standard of the company, along with writing unit testing to ensure code quality and addressing over 90 failed tests in the systems since major change in development process",
+      "Enhanced the application performance, leading to significant data storage savings of up to 6% by eliminating redundant tables and fields, consolidating multiple API endpoints, streamlining backend code to improve code efficiency"],
+      "imageSrc": "experience/membermax.png",
+      "link":"https://www.membermax.com/"
+    },
+    {
+      "role": "Software Developer & Data Visualization Intern",
+      "organisation": "Takeda",
+      "startDate": "May, 2023",
+      "endDate": "Aug, 2023",
+      "experiences": ["Implemented a Large Language Modeltool tailored for analysts and scientists to enable them to effortlessly access and retrieve desired data by using natural language queries, precenting the need for SQL expertise, resulting in substantial time savings of up to 60% for users", 
+      "Addressed sensitive data exposure concerns by reinforcing SQL query responses from the OpenAI model before database execution, providing valuable measures, enhancing overall utility and reliability by 100%",
+      "Collaborated with users to gain feedbacks and reviews, then planed for model training strategies and upgrade requests to improve the language model performance to meet the need of data analyst teams"],
+      "imageSrc": "experience/takeda.png",
+      "link":"https://www.takeda.com/"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "Spilt Milk Studios",
+      "startDate": "Jan, 2023",
+      "endDate": "Apr, 2023",
+      "experiences": [
+        "Assisted the company to discover players’ experience in three game products by providing feedback and suggestions on game accessibilities",
+        "Programed a Discord Bot with diverse functionalities, including the ability to promptly respond to requests for crucial private data such as work tickets, ticket progress, announcements, events, etc., aiming to enhance internal communication",
+        "Adapted to new field and learned continuously to enhance the knowledge of Software Development Lifecycle and understanding of Agile methodologies and Scrum framework "
+      ],
+      "imageSrc": "experience/spiltmilk.png",
+      "link":"https://www.spiltmilkstudios.com/"
+    }
+  ]
