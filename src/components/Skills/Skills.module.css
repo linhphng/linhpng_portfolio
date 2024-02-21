@@ -1,0 +1,66 @@
+@import "../../vars.css";
+
+.container {
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 79px;
+  color: var(--color-text);
+}
+
+.text {
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  margin-top: 45px;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+.type {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 35px;
+  align-items: center;
+  gap: 30px;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 20px;
+  width: 70%;
+}
+
+.skill {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  gap: 20px;
+  align-items: center;
+  width: max-content;
+}
+
+.skill img {
+  width: 60px;
+}
+
+.skill p {
+  font-size: 16px;
+  text-align: center;
+}
+
+@media screen and (max-width: 830px) {
+  .type {
+    flex-direction: column;
+  }
+
+  .skills {
+    justify-content: center;
+  }
+}
