@@ -54,9 +54,9 @@ npm run preview
 Resources that I used and would like to give credit to
 
 * [Vite](https://vitejs.dev/guide/)
-* [AOS - animate on scroll library] (https://michalsnik.github.io/aos/)
-* [Icon] (https://www.flaticon.com/)
-* [Fontawesome] (https://fontawesome.com/)
-* [Hosting App] (https://www.netlify.com/)
+* [AOS - animate on scroll library](https://michalsnik.github.io/aos/)
+* [Icon](https://www.flaticon.com/)
+* [Fontawesome](https://fontawesome.com/)
+* [Hosting App](https://www.netlify.com/)
 
 
