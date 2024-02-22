@@ -1,0 +1,23 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 79px;
+}
+
+.content {
+}
+
+.mySwiper {
+}
+
+.mySwiperSlide {
+}
+
+.mySwiper img {
+  border-radius: 30px;
+  display: block;
+  width: 100%;
+}

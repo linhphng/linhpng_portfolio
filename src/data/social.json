@@ -1,0 +1,17 @@
+[
+    {
+        "platform": "Github",
+        "link": "https://github.com/linhphng",
+        "imageSrc": "contact/github.png"
+    },
+    {
+        "platform": "LinkedIn",
+        "link": "https://www.linkedin.com/in/linh-nguyen-496555221/",
+        "imageSrc": "contact/linkedin.png"
+    },
+    {
+        "platform": "Instagram",
+        "link": "https://www.instagram.com/linhpng_/",
+        "imageSrc": "contact/instagram.png"
+    }
+]
