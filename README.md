@@ -25,6 +25,10 @@ cd {insert_your_project_name}
 npm install
 ```
 
+```sh
+npm install swiper
+```
+
 ### Run
 
 To run the project locally
@@ -54,6 +58,7 @@ npm run preview
 Resources that I used and would like to give credit to
 
 * [Vite](https://vitejs.dev/guide/)
+* [Swiper](https://swiperjs.com/get-started)
 * [AOS - animate on scroll library](https://michalsnik.github.io/aos/)
 * [Icon](https://www.flaticon.com/)
 * [Fontawesome](https://fontawesome.com/)
